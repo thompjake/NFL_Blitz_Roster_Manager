@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BlitzGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TeamNameOffsetStart>1203772</TeamNameOffsetStart>
+  <PassingRatingOffsetStart>1203756</PassingRatingOffsetStart>
+  <RushingRatingOffsetStart>1203757</RushingRatingOffsetStart>
+  <LinemenRatingOffsetStart>1203758</LinemenRatingOffsetStart>
+  <DefenseRatingOffsetStart>1203759</DefenseRatingOffsetStart>
+  <SpecialTeamsRatingOffsetStart>1203760</SpecialTeamsRatingOffsetStart>
+  <TeamNameOffsetIncrement>64</TeamNameOffsetIncrement>
+  <PassingRatingOffsetIncrement>64</PassingRatingOffsetIncrement>
+  <RushingRatingOffsetIncrement>64</RushingRatingOffsetIncrement>
+  <LinemenRatingOffsetIncrement>64</LinemenRatingOffsetIncrement>
+  <DefenseRatingOffsetIncrement>64</DefenseRatingOffsetIncrement>
+  <SpecialTeamsRatingOffsetIncrement>64</SpecialTeamsRatingOffsetIncrement>
+  <PlayerNumberOffsetStart>1175730</PlayerNumberOffsetStart>
+  <PlayerLastNameOffsetStart>1175732</PlayerLastNameOffsetStart>
+  <PlayerFirstNameOffsetStart>-1</PlayerFirstNameOffsetStart>
+  <PlayerSkinColorOffsetStart>1175729</PlayerSkinColorOffsetStart>
+  <PlayerWeightOffsetStart>1175728</PlayerWeightOffsetStart>
+  <PlayerLuckOffsetStart>1175731</PlayerLuckOffsetStart>
+  <PlayerNumberOffsetIncrement>24</PlayerNumberOffsetIncrement>
+  <PlayerLastNameOffsetIncrement>24</PlayerLastNameOffsetIncrement>
+  <PlayerFirstNameOffsetIncrement>-1</PlayerFirstNameOffsetIncrement>
+  <PlayerSkinColorOffsetIncrement>24</PlayerSkinColorOffsetIncrement>
+  <PlayerWeightOffsetIncrement>24</PlayerWeightOffsetIncrement>
+  <PlayerLuckOffsetIncrement>24</PlayerLuckOffsetIncrement>
+<SystemName>N64</SystemName>
+<GameName>Blitz 2000 Zoinkity Hack</GameName>
+<GameTeamCount>32</GameTeamCount>
+</BlitzGame>

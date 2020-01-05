@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BlitzGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TeamSelectScreenNameOffsetStart>1156128</TeamSelectScreenNameOffsetStart>
+  <TeamNameOffsetStart>1152416</TeamNameOffsetStart>
+  <TeamCityOffsetStart>1152448</TeamCityOffsetStart>
+  <TeamNameAbbreviationOffsetStart>1152484</TeamNameAbbreviationOffsetStart>
+  <TeamCityAbbreviationOffsetStart>1152480</TeamCityAbbreviationOffsetStart>
+  <PassingRatingOffsetStart>1152401</PassingRatingOffsetStart>
+  <RushingRatingOffsetStart>1152403</RushingRatingOffsetStart>
+  <LinemenRatingOffsetStart>1152405</LinemenRatingOffsetStart>
+  <DefenseRatingOffsetStart>1152407</DefenseRatingOffsetStart>
+<SpecialTeamsRatingOffsetStart>1152409</SpecialTeamsRatingOffsetStart>
+  <TeamSelectScreenNameOffsetIncrement>16</TeamSelectScreenNameOffsetIncrement>
+  <TeamNameOffsetIncrement>100</TeamNameOffsetIncrement>
+  <TeamCityOffsetIncrement>100</TeamCityOffsetIncrement>
+  <TeamNameAbbreviationOffsetIncrement>100</TeamNameAbbreviationOffsetIncrement>
+  <TeamCityAbbreviationOffsetIncrement>100</TeamCityAbbreviationOffsetIncrement>
+  <PassingRatingOffsetIncrement>100</PassingRatingOffsetIncrement>
+  <RushingRatingOffsetIncrement>100</RushingRatingOffsetIncrement>
+  <LinemenRatingOffsetIncrement>100</LinemenRatingOffsetIncrement>
+  <DefenseRatingOffsetIncrement>100</DefenseRatingOffsetIncrement>
+  <SpecialTeamsRatingOffsetIncrement>100</SpecialTeamsRatingOffsetIncrement>
+  <PlayerNumberOffsetStart>1131579</PlayerNumberOffsetStart>
+  <PlayerLastNameOffsetStart>1131584</PlayerLastNameOffsetStart>
+  <PlayerFirstNameOffsetStart>1131600</PlayerFirstNameOffsetStart>
+  <PlayerSkinColorOffsetStart>1131575</PlayerSkinColorOffsetStart>
+  <PlayerWeightOffsetStart>1131571</PlayerWeightOffsetStart>
+  <PlayerLuckOffsetStart>1131583</PlayerLuckOffsetStart>
+  <PlayerNumberOffsetIncrement>48</PlayerNumberOffsetIncrement>
+  <PlayerLastNameOffsetIncrement>48</PlayerLastNameOffsetIncrement>
+  <PlayerFirstNameOffsetIncrement>48</PlayerFirstNameOffsetIncrement>
+  <PlayerSkinColorOffsetIncrement>48</PlayerSkinColorOffsetIncrement>
+  <PlayerWeightOffsetIncrement>48</PlayerWeightOffsetIncrement>
+  <PlayerLuckOffsetIncrement>48</PlayerLuckOffsetIncrement>
+<SystemName>N64</SystemName>
+<GameName>Blitz 2001</GameName>
+<GameTeamCount>31</GameTeamCount>
+<PlayerPerTeam>14</PlayerPerTeam>
+</BlitzGame>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BlitzGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TeamNameOffsetStart>1176412</TeamNameOffsetStart>
+  <TeamSelectScreenNameOffsetStart>1176428</TeamSelectScreenNameOffsetStart>
+  <TeamCityOffsetStart>1176444</TeamCityOffsetStart>
+  <TeamNameAbbreviationOffsetStart>1176460</TeamNameAbbreviationOffsetStart>
+  <TeamCityAbbreviationOffsetStart>0</TeamCityAbbreviationOffsetStart>
+  <PassingRatingOffsetStart>1176396</PassingRatingOffsetStart>
+  <RushingRatingOffsetStart>1176397</RushingRatingOffsetStart>
+  <LinemenRatingOffsetStart>1176398</LinemenRatingOffsetStart>
+  <DefenseRatingOffsetStart>1176399</DefenseRatingOffsetStart>
+  <SpecialTeamsRatingOffsetStart>1176400</SpecialTeamsRatingOffsetStart>
+  <TeamSelectScreenNameOffsetIncrement>544</TeamSelectScreenNameOffsetIncrement>
+  <TeamNameOffsetIncrement>544</TeamNameOffsetIncrement>
+  <TeamCityOffsetIncrement>544</TeamCityOffsetIncrement>
+  <TeamNameAbbreviationOffsetIncrement>544</TeamNameAbbreviationOffsetIncrement>
+  <TeamCityAbbreviationOffsetIncrement>544</TeamCityAbbreviationOffsetIncrement>
+  <PassingRatingOffsetIncrement>544</PassingRatingOffsetIncrement>
+  <RushingRatingOffsetIncrement>544</RushingRatingOffsetIncrement>
+    <LinemenRatingOffsetIncrement>544</LinemenRatingOffsetIncrement>
+  <DefenseRatingOffsetIncrement>544</DefenseRatingOffsetIncrement>
+  <SpecialTeamsRatingOffsetIncrement>544</SpecialTeamsRatingOffsetIncrement>
+  <PlayerNumberOffsetStart>1175938</PlayerNumberOffsetStart>
+  <PlayerLastNameOffsetStart>1175940</PlayerLastNameOffsetStart>
+  <PlayerFirstNameOffsetStart>0</PlayerFirstNameOffsetStart>
+  <PlayerSkinColorOffsetStart>1175937</PlayerSkinColorOffsetStart>
+  <PlayerWeightOffsetStart>1175936</PlayerWeightOffsetStart>
+  <PlayerLuckOffsetStart>1175939</PlayerLuckOffsetStart>
+  <PlayerNumberOffsetIncrement>24</PlayerNumberOffsetIncrement>
+  <PlayerLastNameOffsetIncrement>24</PlayerLastNameOffsetIncrement>
+  <PlayerFirstNameOffsetIncrement>0</PlayerFirstNameOffsetIncrement>
+  <PlayerSkinColorOffsetIncrement>24</PlayerSkinColorOffsetIncrement>
+  <PlayerWeightOffsetIncrement>24</PlayerWeightOffsetIncrement>
+  <PlayerLuckOffsetIncrement>24</PlayerLuckOffsetIncrement>
+  <TeamOffsetIncrement>544</TeamOffsetIncrement>
+<SystemName>N64</SystemName>
+<GameName>Blitz 2000 Zoinkity Patch</GameName>
+<GameTeamCount>32</GameTeamCount>
+<FileListOffset>16574416</FileListOffset>
+<BinRomIndex>1379392</BinRomIndex>
+<maxFileNameLenght>20</maxFileNameLenght>
+<filePositionLength>4</filePositionLength>
+<decompressedLenght>4</decompressedLenght>
+<compressedLenght>4</compressedLenght>
+<ExpandableTeams>true</ExpandableTeams>
+</BlitzGame>

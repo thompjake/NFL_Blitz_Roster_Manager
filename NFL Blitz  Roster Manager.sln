@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFL Blitz Roster Manager", "NFL Blitz 2000 Roster Manager\NFL Blitz Roster Manager.csproj", "{3DC01AFA-14A8-446C-8C59-65151D6CC03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC01AFA-14A8-446C-8C59-65151D6CC03B}.Debug|x86.ActiveCfg = Debug|x86
+		{3DC01AFA-14A8-446C-8C59-65151D6CC03B}.Debug|x86.Build.0 = Debug|x86
+		{3DC01AFA-14A8-446C-8C59-65151D6CC03B}.Release|x86.ActiveCfg = Release|x86
+		{3DC01AFA-14A8-446C-8C59-65151D6CC03B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14145655-1493-4610-A56C-5947655F9E17}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BlitzGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TeamNameOffsetStart>1928693</TeamNameOffsetStart>
+  <PassingRatingOffsetStart>1928677</PassingRatingOffsetStart>
+  <RushingRatingOffsetStart>1928679</RushingRatingOffsetStart>
+  <LinemenRatingOffsetStart>1928681</LinemenRatingOffsetStart>
+  <DefenseRatingOffsetStart>1928683</DefenseRatingOffsetStart>
+<SpecialTeamsRatingOffsetStart>1928685</SpecialTeamsRatingOffsetStart>
+  <TeamNameOffsetIncrement>120</TeamNameOffsetIncrement>
+  <PassingRatingOffsetIncrement>120</PassingRatingOffsetIncrement>
+  <RushingRatingOffsetIncrement>120</RushingRatingOffsetIncrement>
+  <LinemenRatingOffsetIncrement>120</LinemenRatingOffsetIncrement>
+  <DefenseRatingOffsetIncrement>120</DefenseRatingOffsetIncrement>
+  <SpecialTeamsRatingOffsetIncrement>120</SpecialTeamsRatingOffsetIncrement>
+  <PlayerNumberOffsetStart>1883653</PlayerNumberOffsetStart>
+  <PlayerLastNameOffsetStart>1883677</PlayerLastNameOffsetStart>
+  <PlayerFirstNameOffsetStart>1883693</PlayerFirstNameOffsetStart>
+  <PlayerSkinColorOffsetStart>1883649</PlayerSkinColorOffsetStart>
+  <PlayerWeightOffsetStart>1883645</PlayerWeightOffsetStart>
+  <PlayerLuckOffsetStart>1883657</PlayerLuckOffsetStart>
+  <PlayerNumberOffsetIncrement>92</PlayerNumberOffsetIncrement>
+  <PlayerLastNameOffsetIncrement>92</PlayerLastNameOffsetIncrement>
+  <PlayerFirstNameOffsetIncrement>92</PlayerFirstNameOffsetIncrement>
+  <PlayerSkinColorOffsetIncrement>92</PlayerSkinColorOffsetIncrement>
+  <PlayerWeightOffsetIncrement>92</PlayerWeightOffsetIncrement>
+  <PlayerLuckOffsetIncrement>92</PlayerLuckOffsetIncrement>
+<SystemName>PC</SystemName>
+<GameName>Blitz (blitzD3D.exe)</GameName>
+<GameTeamCount>30</GameTeamCount>
+<PlayerPerTeam>16</PlayerPerTeam>
+</BlitzGame>
